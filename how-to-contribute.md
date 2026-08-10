@@ -10,11 +10,4 @@ GitHub tracks contributions, which means that contributors must first be logged 
   
   To create a repository for the ABSEL Store, from the [ABSEL Store](https://github.com/abselstore), click the **Repositories** menu item. A list of the store's repositories will appear and, if you are privileged to create a repository for the ABSEL Store, a **New repository** button will appear on upper right of the area. Click that button. Then fill in the repository creation form that appears and click the **Create repository** button on the bottom of the form. Repository created, you can proceed to put files into the repository by clicking, in the **Quick setup** box that appears, the link to *creating a new file* or *uploading an existing file*. 
 
-   Editing a file of a repository at the request of one who did not create the repository, however, requries action by the requester asking for the change, the reviewers designated to approve the change, and the assignees designated to execute the change. The requester begins the process by taking the following steps:
-  1. *Fork* the repository. Forking creates a connection from the requester's account to the target repository.
-  2. Create an offshoot _branch_ of the repository's _main_ branch.
-  3. Edit the file.
-  4. Commit, that is, save the edits to the offshoot _branch_.
-  5. Send a *pull request* to collaborators. Essentially, collaborators are asked to pull down the offshoot branch for examination.
-
-Upon approval of the requested changes, the offshoot branch is _merged_ to the _main_ branch, either automatically following a rule or at the discretion of an assignee.  
+  Changing the contents of a repository by one who did not create the repository requires action by the requester asking for the change and the repository's collaborators, as explained in [How to Request Changes to Repository Contents](https://github.com/abselstore/.github/blob/main/request-changes.md).
