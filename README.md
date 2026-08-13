@@ -4,6 +4,7 @@ GitHub, [free at the basic level](https://github.com/pricing), with [special ser
 
 ## Table of Contents
 
-1. how-to-contribute.md: General instructions on how to contribute to wikis, discussions, and contents of repositories.
-2. request-changes.md: Detailed instructions on how to request changes to the contents of repositories.
-3. submit-materials.md: Detailed instructions on how to submit materials.
+1. README.md: This introductory message.
+2. how-to-contribute.md: General instructions on how to contribute to wikis, discussions, and contents of repositories.
+3. request-changes.md: Detailed instructions on how to request changes to the contents of repositories.
+4. submit-materials.md: Detailed instructions on how to submit materials.
